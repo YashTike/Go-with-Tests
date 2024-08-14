@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestRepeater(t *testing.T) {
+func TestRepeat(t *testing.T) {
 
 	t.Run("repeating 5 times", func(t *testing.T) {
 
